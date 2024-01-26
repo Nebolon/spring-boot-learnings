@@ -13,5 +13,4 @@ public class BookingDTO {
     private UUID externalId;
     private String guestName;
     private String destination;
-
 }

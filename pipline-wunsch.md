@@ -1,0 +1,1 @@
+https://docs.gitlab.com/ee/ci/testing/test_coverage_visualization.html

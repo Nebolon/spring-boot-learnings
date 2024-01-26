@@ -4,7 +4,6 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.nicolaihoffmann.springbootlearnings.uraubsbuchung.controller.BookingController;
 import com.nicolaihoffmann.springbootlearnings.uraubsbuchung.dto.BookingDTO;
 import com.nicolaihoffmann.springbootlearnings.uraubsbuchung.entity.Booking;
-import com.nicolaihoffmann.springbootlearnings.uraubsbuchung.repository.BookingRepository;
 import com.nicolaihoffmann.springbootlearnings.uraubsbuchung.service.BookingService;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
