@@ -1,21 +1,23 @@
-package com.nicolaihoffmann.springbootlearnings.uraubsbuchung.entity;
+package com.nicolaihoffmann.springbootlearnings.customer.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
+import lombok.AllArgsConstructor;
 import lombok.Data;
-import lombok.RequiredArgsConstructor;
+import lombok.NoArgsConstructor;
 
-@RequiredArgsConstructor
+@NoArgsConstructor
+@AllArgsConstructor
 @Data
 @Entity
-public class Person {
+public final class Namen {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-    private String firstName;
-    private String lastName;
-    private int age;
+    private String vorname;
+    private String nachname;
+
 }

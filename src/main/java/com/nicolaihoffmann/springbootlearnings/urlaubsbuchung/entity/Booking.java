@@ -1,4 +1,4 @@
-package com.nicolaihoffmann.springbootlearnings.uraubsbuchung.entity;
+package com.nicolaihoffmann.springbootlearnings.urlaubsbuchung.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

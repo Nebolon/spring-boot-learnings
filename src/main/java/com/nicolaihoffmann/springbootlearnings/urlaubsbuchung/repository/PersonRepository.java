@@ -1,6 +1,6 @@
-package com.nicolaihoffmann.springbootlearnings.uraubsbuchung.repository;
+package com.nicolaihoffmann.springbootlearnings.urlaubsbuchung.repository;
 
-import com.nicolaihoffmann.springbootlearnings.uraubsbuchung.entity.Person;
+import com.nicolaihoffmann.springbootlearnings.urlaubsbuchung.entity.Person;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;
 

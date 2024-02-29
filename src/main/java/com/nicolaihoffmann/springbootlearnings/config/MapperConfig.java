@@ -1,4 +1,4 @@
-package com.nicolaihoffmann.springbootlearnings.uraubsbuchung.config;
+package com.nicolaihoffmann.springbootlearnings.config;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.context.annotation.Bean;

@@ -1,10 +1,9 @@
-package com.nicolaihoffmann.springbootlearnings.uraubsbuchung.service;
+package com.nicolaihoffmann.springbootlearnings.urlaubsbuchung.service;
 
-import com.nicolaihoffmann.springbootlearnings.uraubsbuchung.dto.BookingDTO;
-import com.nicolaihoffmann.springbootlearnings.uraubsbuchung.entity.Booking;
-import com.nicolaihoffmann.springbootlearnings.uraubsbuchung.repository.BookingRepository;
+import com.nicolaihoffmann.springbootlearnings.urlaubsbuchung.dto.BookingDTO;
+import com.nicolaihoffmann.springbootlearnings.urlaubsbuchung.entity.Booking;
+import com.nicolaihoffmann.springbootlearnings.urlaubsbuchung.repository.BookingRepository;
 import lombok.AllArgsConstructor;
-import lombok.RequiredArgsConstructor;
 import lombok.Setter;
 import org.modelmapper.AbstractConverter;
 import org.modelmapper.ModelMapper;

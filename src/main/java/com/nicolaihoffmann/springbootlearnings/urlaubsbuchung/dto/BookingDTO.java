@@ -1,4 +1,4 @@
-package com.nicolaihoffmann.springbootlearnings.uraubsbuchung.dto;
+package com.nicolaihoffmann.springbootlearnings.urlaubsbuchung.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

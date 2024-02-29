@@ -1,10 +1,9 @@
 package com.nicolaihoffmann.springbootlearnings.urlaubsbuchung.controller;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.nicolaihoffmann.springbootlearnings.uraubsbuchung.controller.BookingController;
-import com.nicolaihoffmann.springbootlearnings.uraubsbuchung.dto.BookingDTO;
-import com.nicolaihoffmann.springbootlearnings.uraubsbuchung.entity.Booking;
-import com.nicolaihoffmann.springbootlearnings.uraubsbuchung.service.BookingService;
+import com.nicolaihoffmann.springbootlearnings.urlaubsbuchung.dto.BookingDTO;
+import com.nicolaihoffmann.springbootlearnings.urlaubsbuchung.entity.Booking;
+import com.nicolaihoffmann.springbootlearnings.urlaubsbuchung.service.BookingService;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest;

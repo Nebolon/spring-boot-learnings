@@ -1,7 +1,7 @@
-package com.nicolaihoffmann.springbootlearnings.uraubsbuchung.controller;
+package com.nicolaihoffmann.springbootlearnings.urlaubsbuchung.controller;
 
-import com.nicolaihoffmann.springbootlearnings.uraubsbuchung.dto.BookingDTO;
-import com.nicolaihoffmann.springbootlearnings.uraubsbuchung.service.BookingService;
+import com.nicolaihoffmann.springbootlearnings.urlaubsbuchung.dto.BookingDTO;
+import com.nicolaihoffmann.springbootlearnings.urlaubsbuchung.service.BookingService;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
 import io.swagger.v3.oas.annotations.responses.ApiResponses;
 import org.springframework.beans.factory.annotation.Autowired;
